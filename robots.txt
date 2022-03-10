@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-angka-keramat.github.io/info-5/sitemap.xml
